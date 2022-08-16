@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+/* classes */
+/* .container {
+  display: flex;
+} */
